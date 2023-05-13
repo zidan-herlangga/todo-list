@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px) {
+  .title {
+    font-size: 20px;
+    /* margin-bottom: 20; */
+  }
+
+  .todo-list {
+    flex-wrap: wrap;
+    /* min-width: 10%; */
+    width: 85%;
+    /* margin-bottom: 300px; */
+  }
+
+  .list-head {
+    display: grid;
+  }
+
+  .entered-list {
+    width: 200px;
+  }
+}
